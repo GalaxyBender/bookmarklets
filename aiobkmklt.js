@@ -1,6 +1,6 @@
 (function(){
   
-  var launchNum = parseInt(prompt("What would you like to do? \n 1): Launch Ultraviolet \n 2): Launch Incognito \n 3): Launch Holy Unblocker \n 4): Launch Cloaked Tab \n (If you enter any other value, it will Launch a Cloaked Tab \n Made by Exploits N' Stuff")); 
+  var launchNum = parseInt(prompt("What would you like to do? \n 1): Launch Ultraviolet \n 2): Launch Incognito \n 3): Launch Holy Unblocker \n 4): Launch Cloaked Tab \n (If you enter any other value, it will Launch a Cloaked Tab) \n Made by Exploits N' Stuff")); 
   var win = null;
   var url = null;
   var iframe = null;
