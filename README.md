@@ -1,4 +1,2 @@
 # bookmarklets
-a repo with lots of my bookmarklets
-basically just so i can have a github usercontent link to shorten them
-
+This repository contains bookmarklets that I have coded. I am a co-founder of Exploits N' Stuff (https://sites.google.com/view/exploitsnstuff). I know basic web design, javascript, and Node.JS. 
