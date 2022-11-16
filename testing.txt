@@ -1,0 +1,1 @@
+data:text/html<script>(javascript code here)</script> if you do that
