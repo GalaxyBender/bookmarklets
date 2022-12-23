@@ -1,6 +1,6 @@
 (function(){
   
-  var launchNum = parseInt(prompt("What would you like to do? \n 1): Launch Ultraviolet \n 2): Launch Incognito \n 3): Launch Holy Unblocker \n 4): Launch Cloaked Tab \n (If you enter any other value, it will Launch a Cloaked Tab) \n Made by Exploits N' Stuff")); 
+  var launchNum = parseInt(prompt("What would you like to do? \n 1): Launch Nebula \n 2): Launch Incognito \n 3): Launch Holy Unblocker \n 4): Launch Cloaked Tab \n (If you enter any other value, it will Launch a Cloaked Tab) \n Made by Exploits N' Stuff")); 
   var win = null;
   var url = null;
   var iframe = null;
@@ -10,7 +10,7 @@
     case 1:
       win = window.open();
       
-      url = 'https://Ultraviolet-Node.galaxybender.repl.co';
+      url = 'https://galaxybender-nebula.cyclic.app/';
       
       iframe = win.document.createElement('iframe');
       
@@ -25,7 +25,7 @@ iframe.style="position:fixed;width:100vw;height:100vh;top:0px;left:0px;right:0px
   case 2:
       win = window.open();
       
-      url = 'https://Incognito.galaxybender.repl.co';
+      url = 'https://incogprxy.onrender.com/';
       
       iframe = win.document.createElement('iframe');
       
@@ -40,7 +40,7 @@ iframe.style="position:fixed;width:100vw;height:100vh;top:0px;left:0px;right:0px
   case 3:
       win = window.open();
       
-      url = 'https://website-aio.galaxybender.repl.co';
+      url = 'https://holyunb.cyclic.app/';
       
       iframe = win.document.createElement('iframe');
       
@@ -53,7 +53,7 @@ iframe.style="position:fixed;width:100vw;height:100vh;top:0px;left:0px;right:0px
       break;
   
   default:
-      url = prompt("Enter website url for cloaked tab \nMade by Exploits N' Stuff: https://sites.google.com/view/exploitsnstuff");
+      url = prompt("Enter website url for cloaked tab \nMade by Universal Unblocking: https://sites.google.com/view/universalunblocking");
       
       win = window.open();
       
